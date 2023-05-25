@@ -1,0 +1,8 @@
+prefix=/home/wlk/workspace/catkin_ws/install
+
+Name: launch
+Description: Description of launch
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

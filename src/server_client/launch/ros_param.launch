@@ -1,0 +1,4 @@
+<launch>
+    <!-- parameter load-->
+    <rosparam file="$(find server_client)/params/strategy.yaml" command="load"/>
+</launch>
